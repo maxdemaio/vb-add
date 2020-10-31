@@ -24,6 +24,6 @@ MsgBox "Delete Empty Columns" & vbNewLine & "Deletes any empty columns present i
     vbNewLine & _
     "Name Drag Down" & vbNewLine & "Given a column, starting and ending row, the subroutine will drag names down." & vbNewLine _
     , vbInformation, "vb-add Information"
-
+    
 End Sub
 
